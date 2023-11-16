@@ -1,0 +1,9 @@
+FROM node:latest
+WORKDIR /Users/music/Desktop/TFG/nodeapp
+COPY package.json .
+# Limpia la caché de npm
+RUN npm cache clean --force
+RUN npm install
+COPY . .
+EXPOSE 3000
+CMD ["npm", "run", "start:prod"]
