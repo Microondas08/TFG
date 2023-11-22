@@ -13,6 +13,9 @@ EJEMPLO USUARIO QUE NECESITA TRATAMIENTO
 
 ![home2](https://github.com/Microondas08/TFG/assets/38622188/3c83ebe4-21fc-471b-8c70-8b9b10bb3671)
 
+EJEMPLO USUARIO QUE NO NECESITA TRATAMIENTO
+
+![ejemploNOtratamientonecesita](https://github.com/Microondas08/TFG/assets/38622188/512c48af-95cb-4755-b7a4-ce693a828c4c)
 
 CALENDARIO
 ![Captura de pantalla 2023-11-04 230011](https://github.com/Microondas08/TFG/assets/38622188/61222ad6-a583-4694-a38b-68c87b5b7c92)
