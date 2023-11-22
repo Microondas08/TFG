@@ -9,10 +9,10 @@ Imágenes de la APP:
 
 INICIO
 ![home](https://github.com/Microondas08/TFG/assets/38622188/fa426ec7-dbf0-4abb-9ffe-b6cf1887845c)
+EJEMPLO USUARIO QUE NECESITA TRATAMIENTO
+
 ![home2](https://github.com/Microondas08/TFG/assets/38622188/3c83ebe4-21fc-471b-8c70-8b9b10bb3671)
 
-EJEMPLO USUARIO QUE NECESITA TRATAMIENTO
-![ejemploNOtratamientonecesita](https://github.com/Microondas08/TFG/assets/38622188/f11d1cb5-6fd7-4b06-afcb-b4a24d510773)
 
 CALENDARIO
 ![Captura de pantalla 2023-11-04 230011](https://github.com/Microondas08/TFG/assets/38622188/61222ad6-a583-4694-a38b-68c87b5b7c92)
